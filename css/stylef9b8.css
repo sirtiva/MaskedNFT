@@ -267,7 +267,7 @@ textarea:focus {
 /* logo size*/
 
 .neoh_fn_header .header_in img {
-    position: fixed;
+    position: relative;
     width: 200px;
     top: 0;
     display: inline-flex;
